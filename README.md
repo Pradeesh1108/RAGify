@@ -1,7 +1,5 @@
 # Qwen3 RAG Chat Application
 
-![demo](./assets/demo.gif)
-
 A powerful RAG (Retrieval-Augmented Generation) chat application built with Streamlit, LlamaIndex, and Nebius AI's Qwen3 model. This application allows users to upload PDF documents and interact with them through an AI-powered chat interface.
 
 ## Features
